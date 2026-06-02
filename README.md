@@ -1,6 +1,6 @@
 # Hotel Booking System - REST API
 
-Ett fullt fungerande backend-system för hotellbokningar byggt med **Spring Boot** och **Spring Security**. Systemet hanterar rumstyper, bokningar, användarroller och använder **JWT** för säker autentisering.
+Fungerande backend-system för hotellbokningar byggt med **Spring Boot** och **Spring Security**. Systemet hanterar rumstyper, bokningar, användarroller och använder **JWT** för säker autentisering.
 
 ## Projektöversikt
 
