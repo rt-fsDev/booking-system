@@ -95,5 +95,5 @@ Maven 3.6+
 ## Licens
 Detta projekt är skapat för utbildningsändamål.
 
-## 👤 Författare: 
+### 👤 Författare: 
 Syedur Rahman - Skoluppgift i Java/Spring Boot
